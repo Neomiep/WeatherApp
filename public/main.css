@@ -1,0 +1,30 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+ }
+ #getCityTemp{
+    margin-left:5px;
+ }
+ .comment-container{
+    padding:5px;
+ }
+ .comment{
+    background-color: white;
+    margin-top:5px;
+    display:inline-block;
+ }
+ .city{
+    background-color: grey;
+    margin-top:5px;
+    display:inline-block;
+    padding:5px;
+    border-radius:3px;
+    border: black solid 1px;
+ }
+ commentInput{
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+ }
+ .deleteCity{
+    margin-bottom:5px;
+ }
